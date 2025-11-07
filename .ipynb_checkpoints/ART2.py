@@ -1,7 +1,6 @@
 """
 # ART2
-Adaptive Resonance Theory Neural Networks
-by Aman Ahuja | github.com/amanahuja | twitter: @amanqa
+Adaptive Resonance Theory Network 2
 
 ## Notes
 1. ART that accommodates patterns with continuous valued components. Since
