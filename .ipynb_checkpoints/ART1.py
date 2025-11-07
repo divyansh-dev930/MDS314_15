@@ -1,8 +1,6 @@
 """
 ART1
-Adaptive Resonance Theory Neural Networks
-by Aman Ahuja | github.com/amanahuja | twitter: @amanqa
-"""
+Adaptive Resonance Theory Network 1
 
 import numpy as np
 
